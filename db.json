@@ -1,0 +1,32 @@
+{
+  "memberList": [
+    {
+      "memberName": "lalita",
+      "joined": true,
+      "id": 1
+    }
+  ],
+  "storyList": [
+    {
+      "id": 1,
+      "status": "voted",
+      "storyId": "121212",
+      "description": "add border",
+      "name": "lalita"
+    },
+    {
+      "id": 2,
+      "status": "pending",
+      "storyId": "45654",
+      "description": "add background color"
+    },
+    {
+      "id": 2,
+      "status": "voting",
+      "storyId": "45654",
+      "description": "add background color"
+    }
+
+  ],
+  "tableData": []
+}
